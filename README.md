@@ -9,7 +9,7 @@
     🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
     ✨ I love to create different types of **contents**.
 <td >
-    <a href="https://github.com/ronisky/"><img src="https://api.daily.dev/devcards/557bc7be5fe648628ef55c6371433ab8.png?r=8zo" width="300" alt="Roni Setiawan"/></a>
+    <a href="https://github.com/ronisky/"><img src="https://api.daily.dev/devcards/557bc7be5fe648628ef55c6371433ab8.png?r=zlm" width="300" alt="Roni Setiawan"/></a>
   </td>
 
 </tr>
