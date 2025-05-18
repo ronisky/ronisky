@@ -1,21 +1,5 @@
 # Hi, I'm Roni Setiawan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## About Me
-<table>
-<tr>
-  <td valign="center">
-    🎓 I am currently **Fullstack Software Development**. <br>
-    🌱 I am currently learning **Web Development** and also interested in **Mobile Development**. <br>
-    🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
-    ✨ I love to create different types of **contents**.
-<td >
-    <a href="https://github.com/ronisky/"><img src="https://api.daily.dev/devcards/557bc7be5fe648628ef55c6371433ab8.png?r=zlm" width="300" alt="Roni Setiawan"/></a>
-  </td>
-
-</tr>
-</table>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronisky&theme=dracula&hide_border=true)
 
 ## Stats📈
 <p align="center">
